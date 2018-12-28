@@ -1,0 +1,19 @@
+body {
+	background-color: #fe6200;
+	margin: 0;
+}
+
+img {
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	max-width: 100%;
+    height: auto;
+    left: 50%;
+    margin: 0 auto;
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px;
+}
